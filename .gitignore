@@ -1,1 +1,16 @@
+# Local environment variables (contains database passwords/API keys)
+.env
+.env.local
 
+# Operating System temporary files
+.DS_Store
+Thumbs.db
+
+# Text editor / IDE configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
